@@ -1,0 +1,62 @@
+# Ignore specific files
+# Ignore all .log files
+# Ignore a specific directory
+        ../../../../.conda/
+        ../../../../.cups/
+        ../../../../.dbshell
+        ../../../../.gitconfig
+        ../../../../.ipython/
+        ../../../../.matplotlib/
+        ../../../../.mongodb/
+        ../../../../.mongorc.js
+        ../../../../.viminfo
+        ../../../../.vscode/
+        ../../../../.xonshrc
+        ../../../../.zprofile
+        ../../../../.zprofile.pysave
+        ../../../../.zsh_history
+        ../../../../.zsh_sessions/
+        ../../../../.zshrc
+        ../../../../.zshrc.save
+        ../../../.localized
+        ../../../Bootcamp/
+        ../../../Docs/
+        ../../../DonationUA/
+        ../../Challenge-VBA-2/
+        ../../Commands/
+        ../../FlightDelayPredictionProject 1/
+        ../../Mars_Mission/
+        ../../Pymaceuticals-challenge-5/
+        ../../SQLalchemy-challenge/
+        ../../World_Weather_Analysis/
+        NoSQL_analysis_starter.ipynb
+        NoSQL_setup_starter.ipynb
+        ../../pandas-challenge/
+        ../../python-api-challenge-1/
+        ../../sql-challenge/
+        ../../sqlalchemy-challenge-1/
+        ../../../Part 1.docx
+        ../../../chromedriver-mac-x64/
+        ../../../mongodb-atlas-cli_1/
+        ../../../screenshot12/
+        ../../../../Documents/
+        ../../../../Downloads/
+        ../../../../FlightDelayPrediction/
+        ../../../../LearnPython
+        ../../../../Library/
+        ../../../../Movies/
+        ../../../../Music/
+        ../../../../Pictures/
+        ../../../../Public/
+        ../../../../Untitled.ipynb
+        ../../../../Visualization-project-1/
+        ../../../../anaconda3/
+        ../../../../chromedriver-mac-x64.zip
+        ../../../../chromedriver-mac-x64/
+        ../../../../data/
+        ../../../../git/
+        ../../../../pandas-1.3.3/
+        ../../../../pandas.tar.gz
+        ../../../../sample.txt
+        ../../../../scikit_learn_data/
+        ../../../../venv/
